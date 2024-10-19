@@ -37,4 +37,10 @@
         android:layout_height="wrap_content"
         android:text="@string/btnGuardar" />
 
+    <TextView
+        android:id="@+id/textViewNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BRYAN JOSUE RIVERA HERNANDEZ 0905-23-1623" />
+
 </LinearLayout>

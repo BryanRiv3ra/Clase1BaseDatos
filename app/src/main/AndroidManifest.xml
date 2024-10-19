@@ -17,7 +17,7 @@
 
         <!-- Declaración de NuevoActivity como principal -->
         <activity
-            android:name=".NuevoActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
 
         <!-- MainActivity se mantiene pero ya no es la principal -->
         <activity
-            android:name=".MainActivity"
+            android:name=".NuevoActivity"
             android:exported="false" />
 
     </application>
