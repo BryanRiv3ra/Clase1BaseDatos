@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">p2c1</string>
+    <string name="tvSaludo">Hola mundo</string>
+    <string name="btnSaludo">Click para saludar</string>
+    <string name="btnCrearDb">Crear DB</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnCrearRegistro">Crear Registro</string>
+    <string name="btnCrearDB">Crear Base de Datos</string>
+
+</resources>
